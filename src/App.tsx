@@ -54,6 +54,9 @@ function App() {
             <p className={styles['read-the-docs']}>
                 Click on the Vite and React logos to learn more
             </p>
+            <div>
+                <h1>FUCK U HCU</h1>
+            </div>
         </div>
     );
 }
